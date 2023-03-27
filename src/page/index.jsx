@@ -1,0 +1,5 @@
+export {default as Home} from './home'
+export {default as Mahasiswa} from './mahasiswa'
+export {default as Dosen} from './dosen'
+export {default as MajorModel} from './programStudi'
+export {default as TentangKami} from './tentangKami'
