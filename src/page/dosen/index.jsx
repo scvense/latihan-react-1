@@ -38,6 +38,7 @@ const DosenModel = () => {
     alamat: "",
     id: "",
   });
+  console.log("xxx");
 
   const [validation, setValidation] = useState({
     nama_dosen: false,
